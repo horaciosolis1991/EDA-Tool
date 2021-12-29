@@ -8,7 +8,7 @@ The tool has a highly customizable interface as shown below:
 
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/EDA-Tool/blob/main/res/EDA-Interface.png" width="614" height="309">
+<img src="https://github.com/horaciosolis1991/EDA-Tool/blob/main/res/EDA-Interface.png" width="617" height="648">
 </p>
 
 
