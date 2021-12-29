@@ -8,7 +8,7 @@ The tool has a highly customizable interface as shown below:
 
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/Version-control-workflow.jpg" width="614" height="309">
+<img src="https://github.com/horaciosolis1991/EDA-Tool/blob/main/res/EDA-Interface.png" width="614" height="309">
 </p>
 
 
@@ -27,7 +27,7 @@ The analysis will be done considering the data type of such variables, based on 
 
 
 <p align="center">
-<img src="https://github.com/horaciosolis1991/Git-class-material/blob/main/res/Version-control-workflow.jpg" width="614" height="309">
+<img src="https://github.com/horaciosolis1991/EDA-Tool/blob/main/res/output-demo.png" width="610" height="513">
 </p>
 
 
